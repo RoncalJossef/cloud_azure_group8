@@ -5,8 +5,12 @@
 
 
 # Install 
+```
 brew update && brew install azure-cli
 az login
+````
 
 # Environments
+```
 export AZURE_SUBSCRIPTION_ID=<your-subscription-id>
+```
